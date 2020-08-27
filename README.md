@@ -1,5 +1,5 @@
 # Aibox internship challenge
-<p>The challenge requirements were as following:</p>
+<p align="justify">The challenge requirements were as following:</p>
 
 <ol>
   <li>Show basic informations on data: number of samples per class, data description, missing data, etc.</li>
@@ -8,7 +8,7 @@
   <li>Plot a graphic that compares the implemented classifiers.</li>
 </ol>
 
-<p>The algorithms of my choice were Support vector machine, stochastic gradient descent and random forest algorithm. As support vector machine algorithms
+<p align="justify">The algorithms of my choice were Support vector machine, stochastic gradient descent and random forest algorithm. As support vector machine algorithms
 are used for binary classification and it doesn't scale well with the dataset size, scikit-learn applies one-versus-one method as a standard.
 Considering that I chose to force one-versus-rest method as well.</p>
-<p>I also had to record a video showing each step of solution and the reasoning behind it. You can find it by using this <a href="https://drive.google.com/file/d/1EQ-Rz0E7C6yJU1uXACrfkks9MbXfUdeq/view?usp=sharing">link</a>.</p>
+<p align="justify">I also had to record a video showing each step of solution and the reasoning behind it. You can find it by using this <a href="https://drive.google.com/file/d/1EQ-Rz0E7C6yJU1uXACrfkks9MbXfUdeq/view?usp=sharing">link</a>.</p>
