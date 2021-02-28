@@ -1,4 +1,4 @@
-# Aibox internship challenge
+# NESS internship challenge
 <p align="justify">The challenge requirements were as following:</p>
 
 <ol>
